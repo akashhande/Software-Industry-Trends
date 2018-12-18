@@ -1,0 +1,4 @@
+Algorithms making important decisions	15370
+Artificial intelligence surpassing human intelligence (the singularity)	15233
+Evolving definitions of fairness in algorithmic versus human decisions	8111
+Increasing automation of jobs	26616

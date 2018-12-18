@@ -1,0 +1,4 @@
+Employed full-time	70495
+Employed part-time	5380
+Not employed. and not looking for work	4132
+Not employed. but looking for work	5805

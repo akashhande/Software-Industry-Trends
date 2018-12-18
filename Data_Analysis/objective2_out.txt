@@ -1,0 +1,11 @@
+Copying and pasting files to network shares	66
+Git	9607
+I don't use version control	80
+I use some other system	237
+Mercurial	220
+NA	46
+Rational ClearCase	27
+Subversion	1053
+Team Foundation Server	1201
+Visual Source Safe	43
+Zip file back-ups	76
